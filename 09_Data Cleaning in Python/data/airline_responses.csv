@@ -1,0 +1,30 @@
+,id,day,airline,destination,dest_region,dest_size,boarding_area,dept_time,wait_min,cleanliness,safety,satisfaction,survey_response
+0,1351,Tuesday,UNITED INTL,KANSAI,asia,Hub,Gates 91-102,2018-12-31,115.0,Clean,Neutral,Very satisfied,It was terrible
+1,373,Friday,ALASKA,SAN JOSE DEL CABO,canada/mexico,Small,Gates 50-59,2018-12-31,135.0,Clean,Very safe,Very satisfied,I didn't like the flight
+2,2820,Thursday,DELTA,LOS ANGELES,west us,Hub,Gates 40-48,2018-12-31,70.0000000000001,Average,Somewhat safe,Neutral,I hate this 
+3,1157,Tuesday,SOUTHWEST,LOS ANGELES,west us,Hub,Gates 20-39,2018-12-31,190.0,Clean,Very safe,Somewhat satsified,Not a fan
+4,2992,Wednesday,AMERICAN,MIAMI,east us,Hub,Gates 50-59,2018-12-31,559.0,Somewhat clean,Very safe,Somewhat satsified,Bad
+5,634,Thursday,ALASKA,NEWARK,east us,Hub,Gates 50-59,2018-12-31,140.0,Somewhat clean,Very safe,Very satisfied,Horrible
+6,2578,Saturday,JETBLUE,LONG BEACH,west us,Small,Gates 1-12,2018-12-31,62.99999999999989,Clean,Very safe,Somewhat satsified,Very poor
+7,2592,Saturday,AEROMEXICO,MEXICO CITY,canada/mexico,Hub,Gates 1-12,2018-12-31,215.0,Somewhat clean,Very safe,Neutral,Unacceptable flight
+8,919,Friday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,70.0000000000001,Somewhat clean,Somewhat safe,Somewhat satsified,It was awful
+9,3028,Tuesday,UNITED,PORTLAND,west us,Medium,Gates 70-90,2018-12-31,180.0,Average,Very safe,Neutral,My fllight was really unpleasant
+10,1129,Tuesday,SOUTHWEST,SAN DIEGO,west us,Medium,Gates 20-39,2018-12-31,540.0,Clean,Very safe,Somewhat satsified,I am not a fan
+11,2648,Saturday,JETBLUE,BOSTON,east us,Large,Gates 1-12,2018-12-31,192.0,Somewhat clean,Very safe,Somewhat satsified,I had a bad flight
+12,3104,Tuesday,UNITED,SPOKANE,west us,Small,Gates 70-90,2018-12-31,107.0,Clean,Very safe,Somewhat satsified,It was very bad
+13,2589,Saturday,INTERJET,GUADALAJARA,canada/mexico,Medium,Gates 1-12,2018-12-31,155.0,Somewhat clean,Somewhat safe,Somewhat satsified,it was horrible
+14,2345,Tuesday,DELTA,MINNEAPOLIS-ST. PAUL,midwest us,Hub,Gates 40-48,2018-12-31,155.0,Somewhat clean,Somewhat safe,Somewhat satsified,Terrible
+15,390,Friday,ALASKA,LOS ANGELES,west us,Hub,Gates 50-59,2018-12-31,175.0,Somewhat clean,Neutral,Somewhat satsified,It was substandard
+16,954,Tuesday,ALASKA,NEW YORK-JFK,east us,Hub,Gates 50-59,2018-12-31,100.0,Clean,Very safe,Very satisfied,I did not enjoy the flight
+17,2913,Friday,TURKISH AIRLINES,ISTANBUL,middle east,Hub,Gates 91-102,2018-12-31,225.0,Clean,Very safe,Somewhat satsified,"The airport personnell forgot to alert us of delayed flights, the bathrooms could have been cleaner"
+18,803,Sunday,ALASKA,BALTIMORE,east us,Medium,Gates 50-59,2018-12-31,155.0,Clean,Very safe,Very satisfied,The food in the airport was really really expensive - also no automatic escalators!
+19,767,Thursday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,115.0,Average,Neutral,Somewhat satsified,One of the other travelers was really loud and talkative and was making a scene and no one did anything about it
+20,1214,Tuesday,SOUTHWEST,LAS VEGAS,west us,Hub,Gates 20-39,2018-12-31,59.99999999999989,Average,Somewhat safe,Somewhat satsified,"I don't remember answering the survey with these scores, my experience was great! "
+21,1373,Tuesday,UNITED INTL,SHANGHAI,asia,Hub,Gates 91-102,2018-12-31,145.0,Clean,Very safe,Somewhat satsified,The airport personnel kept ignoring my requests for directions 
+22,1263,Thursday,UNITED INTL,TOKYO-NARITA,asia,Hub,Gates 91-102,2018-12-31,210.0,Average,Neutral,Neutral,"The chair I sat in was extremely uncomfortable, I still have back pain to this day! "
+23,2723,Wednesday,AIR FRANCE/KLM,PARIS-DE GAULLE,europe,Hub,Gates 1-12,2018-12-31,160.0,Somewhat clean,Very safe,Somewhat satsified,"I wish you were more like other airports, the flights were really disorganized! "
+24,3097,Tuesday,UNITED,SPOKANE,west us,Small,Gates 70-90,2018-12-31,604.0,Clean,Very safe,Very satisfied,I was really unsatisfied with the wait times before the flight. It was unacceptable.
+25,214,Wednesday,AMERICAN,LOS ANGELES,west us,Hub,Gates 50-59,2018-12-31,100.0,Average,Somewhat safe,Somewhat satsified,"The flight was okay, but I didn't really like the number of times I had to stop at security"
+26,1372,Tuesday,UNITED INTL,PARIS-DE GAULLE,europe,Hub,Gates 91-102,2018-12-31,205.0,Somewhat clean,Very safe,Somewhat satsified,"We were really slowed down by security measures, I missed my flight because of it! "
+27,1956,Tuesday,UNITED,BOSTON,east us,Large,Gates 70-90,2018-12-31,115.0,Somewhat clean,Somewhat safe,Somewhat satsified,There was a spill on the aisle next to the bathroom and it took hours to clean!
+28,1716,Sunday,AIR FRANCE/KLM,PARIS-DE GAULLE,europe,Hub,Gates 1-12,2018-12-31,510.0,Clean,Neutral,Very satisfied,I felt very unsatisfied by how long the flight took to take off.
